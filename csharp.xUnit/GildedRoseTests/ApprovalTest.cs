@@ -4,7 +4,8 @@ using System;
 using System.IO;
 using System.Text;
 using System.Threading.Tasks;
-
+using GildedRoseKata.Implementations;
+using GildedRoseKata.Models;
 using VerifyXunit;
 
 using Xunit;
