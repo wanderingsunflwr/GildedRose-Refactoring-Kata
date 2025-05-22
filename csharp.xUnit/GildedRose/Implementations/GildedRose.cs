@@ -5,6 +5,8 @@ using GildedRoseKata.Models;
 
 namespace GildedRoseKata.Implementations;
 
+// Did not rename this class because it is the main class of the kata repo and was unsure if it would cause
+// issues with the tests.
 public class GildedRose(IList<Item> itemsList)
 {
     private const string AgedBrie = "Aged Brie";
